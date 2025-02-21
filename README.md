@@ -1,4 +1,5 @@
 UK-Based Online Retailer Store Transaction Analysis
+
 Project Overview
 This project analyzes transactional data from a UK-based online retailer, covering half a million sales transactions. It aims to uncover valuable insights into customer behavior, purchasing trends, and business performance through data analysis techniques.
 
